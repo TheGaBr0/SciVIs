@@ -4,7 +4,7 @@ Questo è un progetto per il corso di "Visualizzazione Scientifica" nel quale ve
 * Dati generali su atleti: età, genere, medaglie vinte, partecipazioni etc..
 * Focus sull'Italia: età e genere dei suoi atleti, performance, medaglie vinte etc..
 
-NOTA IMPORTANTE
+NOTA IMPORTANTE <br>
 A causa del rendering statico di GitHub dei file jupyter, il file Nazioni.ipynb non caricherà i grafici che fanno uso di librerie dinamiche.
 Per visualizzare tale file renderizzato correttamente è possibile seguire questo [link]((https://nbviewer.org/github/TheGaBr0/SciVIs/blob/main/Notebooks/Nazioni.ipynb)) che fa uso di nbviewer. 
 
