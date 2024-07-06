@@ -11,3 +11,5 @@ Questo è un progetto per il corso di "Viasualizzazione Scientifica" nel quale v
 
 ## Presentazione
 Creata con [Slides](https://slides.com/) con particolare attenzione per una scelta di colori che fosse colorblindess friendly grazie al tool disponibile su [Venngage](https://venngage.com/tools/color-blind-simulator#simulator). 
+
+Link a presentazione: https://slides.com/gabrielebottani-thegabr0_/deck/fullscreen
