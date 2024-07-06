@@ -4,5 +4,4 @@ Questo è un progetto per il corso di "Viasualizzazione Scientifica" nel quale v
 * Dati generali su atleti: età, genere, medaglie vinte, partecipazioni etc..
 * Focus sull'Italia: età e genere dei suoi atleti, performance, medaglie vinte etc..
 
-
-  
+## Datasets utilizzati
