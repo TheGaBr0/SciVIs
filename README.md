@@ -9,9 +9,9 @@ A causa del rendering statico di GitHub dei file jupyter, il file Nazioni.ipynb 
 Per visualizzare tale file renderizzato correttamente è possibile seguire questo [link](https://nbviewer.org/github/TheGaBr0/SciVIs/blob/main/Notebooks/Nazioni.ipynb) che fa uso di nbviewer. 
 
 ## Datasets utilizzati
-* [Atleti olimpici e nazionalità](www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
-* [Risultati olimpici](www.kaggle.com/datasets/jayrav13/olympic-track-field-results)
-* [Dati geografici città](simplemaps.com/data/world-cities)
+* [Atleti olimpici e nazionalità](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
+* [Risultati olimpici](https://www.kaggle.com/datasets/jayrav13/olympic-track-field-results)
+* [Dati geografici città](https://simplemaps.com/data/world-cities)
 
 ## Presentazione
 Creata con [Slides](https://slides.com/) con particolare attenzione per una scelta di colori che fosse colorblindess friendly grazie al tool disponibile su [Venngage](https://venngage.com/tools/color-blind-simulator#simulator).
