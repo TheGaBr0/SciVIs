@@ -14,3 +14,8 @@ Creata con [Slides](https://slides.com/) con particolare attenzione per una scel
 Pensata per essere vista da Desktop. 
 
 Link a presentazione: https://slides.com/gabrielebottani-thegabr0_/deck/fullscreen
+
+## Collaboratori
+* Gabriele Bottani - 01701A
+* Fabio Ferraris - 02994A
+* Amin Es Sarraj - 986898
