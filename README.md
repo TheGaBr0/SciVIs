@@ -8,3 +8,6 @@ Questo è un progetto per il corso di "Viasualizzazione Scientifica" nel quale v
 * [Atleti olimpici e nazionalità](www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
 * [Risultati olimpici](www.kaggle.com/datasets/jayrav13/olympic-track-field-results)
 * [Dati geografici città](simplemaps.com/data/world-cities)
+
+## Presentazione
+Creata con [Slides](https://slides.com/) con particolare attenzione per una scelta di colori che fosse colorblindess friendly grazie al tool disponibile su [Venngage]([https://slides.com/](https://venngage.com/tools/color-blind-simulator#simulator)). 
