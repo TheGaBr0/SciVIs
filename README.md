@@ -6,7 +6,7 @@ Questo è un progetto per il corso di "Visualizzazione Scientifica" nel quale ve
 
 NOTA IMPORTANTE <br>
 A causa del rendering statico di GitHub dei file jupyter, il file Nazioni.ipynb non caricherà i grafici che fanno uso di librerie dinamiche.
-Per visualizzare tale file renderizzato correttamente è possibile seguire questo [link]((https://nbviewer.org/github/TheGaBr0/SciVIs/blob/main/Notebooks/Nazioni.ipynb)) che fa uso di nbviewer. 
+Per visualizzare tale file renderizzato correttamente è possibile seguire questo [link](https://nbviewer.org/github/TheGaBr0/SciVIs/blob/main/Notebooks/Nazioni.ipynb) che fa uso di nbviewer. 
 
 ## Datasets utilizzati
 * [Atleti olimpici e nazionalità](www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
