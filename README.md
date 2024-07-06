@@ -5,3 +5,6 @@ Questo è un progetto per il corso di "Viasualizzazione Scientifica" nel quale v
 * Focus sull'Italia: età e genere dei suoi atleti, performance, medaglie vinte etc..
 
 ## Datasets utilizzati
+* [Atleti olimpici e nazionalità](www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
+* [Risultati olimpici](www.kaggle.com/datasets/jayrav13/olympic-track-field-results)
+* [Dati geografici città](simplemaps.com/data/world-cities)
