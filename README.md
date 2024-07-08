@@ -1,4 +1,4 @@
-# SciVIs - Visualizzazione scientifica e analsi dei dati delle olimpiadi dal 1896 al 2016
+# SciVIs - Visualizzazione scientifica e analisi dei dati delle olimpiadi dal 1896 al 2016
 Questo è un progetto per il corso di "Visualizzazione Scientifica" nel quale vengono visualizzate e analizzate varie tipologie di dati olimpici tra i quali: 
 * Dati generali su nazioni: medaglie per nazione, città ospitanti.
 * Dati generali su atleti: età, genere, medaglie vinte, partecipazioni etc..
